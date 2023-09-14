@@ -18,7 +18,6 @@ int main() {
     double mody = fabs(y);
     double modz = fabs(z);
     
-    
     sum = x + y + z;
     product = x * y * z;
     geoMean = cbrt(modx * mody * modz);
