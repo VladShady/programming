@@ -11,16 +11,17 @@ int main() {
 
     printf("Введіть кількість дітей: ");
     scanf("%d", &num);
+    
+    int heights[num];
 
     printf("Введіть ріст кожної дитини (позитивні значення для дівчаток та негативні для хлопчиків):\n");
 
     for (int i = 0; i < num; i++) {
-        int height;
-        scanf("%d", &height);
+        scanf("%d", &heights[i]);
 
-        if (height >= 10 && height > H) {
+        if (heights[i] + 10 > H) {
             visible_girls++;
-        } else if (height < 0 && -height > H) {
+        } else if (heights[i] < 0 && -heights[i] > H) {
             visible_boys++;
         }
     }
