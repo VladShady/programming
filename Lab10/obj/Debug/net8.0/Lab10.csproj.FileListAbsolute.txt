@@ -1,0 +1,14 @@
+D:\КПНУ\Lab10\Lab10\bin\Debug\net8.0\Lab10.exe
+D:\КПНУ\Lab10\Lab10\bin\Debug\net8.0\Lab10.deps.json
+D:\КПНУ\Lab10\Lab10\bin\Debug\net8.0\Lab10.runtimeconfig.json
+D:\КПНУ\Lab10\Lab10\bin\Debug\net8.0\Lab10.dll
+D:\КПНУ\Lab10\Lab10\bin\Debug\net8.0\Lab10.pdb
+D:\КПНУ\Lab10\Lab10\obj\Debug\net8.0\Lab10.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПНУ\Lab10\Lab10\obj\Debug\net8.0\Lab10.AssemblyInfoInputs.cache
+D:\КПНУ\Lab10\Lab10\obj\Debug\net8.0\Lab10.AssemblyInfo.cs
+D:\КПНУ\Lab10\Lab10\obj\Debug\net8.0\Lab10.csproj.CoreCompileInputs.cache
+D:\КПНУ\Lab10\Lab10\obj\Debug\net8.0\Lab10.dll
+D:\КПНУ\Lab10\Lab10\obj\Debug\net8.0\refint\Lab10.dll
+D:\КПНУ\Lab10\Lab10\obj\Debug\net8.0\Lab10.pdb
+D:\КПНУ\Lab10\Lab10\obj\Debug\net8.0\Lab10.genruntimeconfig.cache
+D:\КПНУ\Lab10\Lab10\obj\Debug\net8.0\ref\Lab10.dll
